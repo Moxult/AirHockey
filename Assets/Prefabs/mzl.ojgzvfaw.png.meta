@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 240afe2e45b734145a3c935b2d0fc463
+timeCreated: 1460299432
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mzl.ojgzvfaw_0
+    21300002: mzl.ojgzvfaw_1
+    21300004: mzl.ojgzvfaw_2
+    21300006: mzl.ojgzvfaw_3
+    21300008: mzl.ojgzvfaw_4
+    21300010: mzl.ojgzvfaw_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mzl.ojgzvfaw_0
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 753
+        width: 267
+        height: 234
+      alignment: 9
+      pivot: {x: 0.53558534, y: 0.5152262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.99872, y: 72.43707}
+        - {x: 33.99872, y: 79.43707}
+        - {x: -38.00128, y: 79.43707}
+        - {x: -79.00128, y: 49.437073}
+        - {x: -88.00128, y: 27.437073}
+        - {x: -88.00128, y: -39.562927}
+        - {x: -84.00128, y: -62.562927}
+        - {x: -59.00128, y: -96.56293}
+        - {x: -39.00128, y: -100.56293}
+        - {x: 74.99872, y: -100.56293}
+        - {x: 89.99872, y: -55.562927}
+        - {x: 89.99872, y: 43.437073}
+    - name: mzl.ojgzvfaw_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 495
+        width: 221
+        height: 219
+      alignment: 9
+      pivot: {x: 0.52687013, y: 0.5162693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.561707, y: 80.93701}
+        - {x: -37.438293, y: 80.93701}
+        - {x: -61.438293, y: 73.93701}
+        - {x: -88.43829, y: 44.93701}
+        - {x: -88.43829, y: -50.06299}
+        - {x: -83.43829, y: -77.06299}
+        - {x: -31.438293, y: -100.06299}
+        - {x: -20.438293, y: -101.06299}
+        - {x: 26.561707, y: -101.06299}
+        - {x: 61.561707, y: -88.06299}
+        - {x: 89.56171, y: -46.06299}
+        - {x: 89.56171, y: 47.93701}
+    - name: mzl.ojgzvfaw_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 632
+        width: 247
+        height: 218
+      alignment: 9
+      pivot: {x: 0.53365827, y: 0.47275984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.1864, y: 81.938354}
+        - {x: -69.8136, y: 81.938354}
+        - {x: -86.8136, y: 33.938354}
+        - {x: -86.8136, y: -59.061646}
+        - {x: -79.8136, y: -68.061646}
+        - {x: -32.8136, y: -98.061646}
+        - {x: 43.1864, y: -98.061646}
+        - {x: 91.1864, y: -70.061646}
+        - {x: 91.1864, y: 45.938354}
+        - {x: 61.1864, y: 75.938354}
+    - name: mzl.ojgzvfaw_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 297
+        width: 234
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5406039, y: 0.5171298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.498688, y: 84.43701}
+        - {x: -41.501312, y: 84.43701}
+        - {x: -58.501312, y: 79.43701}
+        - {x: -87.50131, y: 50.43701}
+        - {x: -87.50131, y: -66.56299}
+        - {x: -40.501312, y: -95.56299}
+        - {x: 39.498688, y: -95.56299}
+        - {x: 90.49869, y: -62.56299}
+        - {x: 90.49869, y: 45.43701}
+    - name: mzl.ojgzvfaw_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 176
+        width: 206
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5403573, y: 0.477904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.6864, y: 61.25064}
+        - {x: 37.6864, y: 84.25064}
+        - {x: -22.313599, y: 84.25064}
+        - {x: -49.3136, y: 75.25064}
+        - {x: -88.3136, y: 31.25064}
+        - {x: -88.3136, y: -48.74936}
+        - {x: -61.3136, y: -94.74936}
+        - {x: -41.3136, y: -97.74936}
+        - {x: 46.6864, y: -97.74936}
+        - {x: 87.6864, y: -63.74936}
+        - {x: 89.6864, y: -48.74936}
+        - {x: 89.6864, y: 47.25064}
+    - name: mzl.ojgzvfaw_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 232
+        height: 195
+      alignment: 9
+      pivot: {x: 0.52047706, y: 0.51827174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.24933, y: 82.93701}
+        - {x: -47.75067, y: 82.93701}
+        - {x: -84.75067, y: 43.93701}
+        - {x: -84.75067, y: -50.06299}
+        - {x: -79.75067, y: -62.06299}
+        - {x: -55.75067, y: -94.06299}
+        - {x: -39.75067, y: -97.06299}
+        - {x: 51.24933, y: -97.06299}
+        - {x: 85.24933, y: -70.06299}
+        - {x: 93.24933, y: -50.06299}
+        - {x: 93.24933, y: 48.93701}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
