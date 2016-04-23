@@ -6,10 +6,13 @@ public class Phisicspuck : MonoBehaviour
     public EdgeCollider2D walls;
     public AudioClip playerhitsound;
     public AudioClip wallhitsound;
+    public static float SpawnX, SpawnY;
 
     // Use this for initialization
     void Start()
     {
+        SpawnX = transform.position.x;
+        SpawnY = transform.position.y;
     }
 
     // Update is called once per frame
