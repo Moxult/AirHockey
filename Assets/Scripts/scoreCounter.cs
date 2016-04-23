@@ -10,8 +10,12 @@ public class scoreCounter : MonoBehaviour {
     {
         if (collider.gameObject.name == "puck")
         {
+            
+            collider.gameObject.transform.position = new Vector3(Phisicspuck.SpawnX, Phisicspuck.SpawnY, transform.position.z);
             scoreText.text = (int.Parse(scoreText.text) + 1) + "";
             GetComponent<AudioSource>().PlayOneShot(goalsound);
+            collider.gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(0,0);
+            //collider.gameObject.GetComponent<Rigidbody2D>().AddForce(Beat2.lastVelocity * 0);
         }
     }
 }
